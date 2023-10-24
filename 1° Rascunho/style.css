@@ -1,0 +1,35 @@
+body {
+    font-family: Courier New;
+    text-align: center;
+    font-size: 25px;
+}
+
+.container {
+    margin-top: 350px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+button 
+    {
+     background-color: #a00000;
+     border: none;
+     color: rgb(0, 0, 0);
+     padding: 65px 55px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 25px;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 8px;
+     transition: background-color 0.5s ease;
+    }
+.botao:hover
+{
+            background-color: #ff4800;
+}
+
+
